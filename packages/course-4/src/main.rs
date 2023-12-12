@@ -1,3 +1,4 @@
+mod life_cycle;
 fn main() {
-    println!("Hello, world!");
+    life_cycle::run()
 }
