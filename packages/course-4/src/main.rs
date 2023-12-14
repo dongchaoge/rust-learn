@@ -1,4 +1,6 @@
-mod life_cycle;
+mod closure;
+// mod life_cycle;
 fn main() {
-    life_cycle::run()
+    // life_cycle::run();
+    closure::run();
 }
